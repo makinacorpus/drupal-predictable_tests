@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * General hooks of predicabletests module.
+ */
+
+
+// All stuff is in predicable.test file.
