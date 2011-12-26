@@ -1,8 +1,0 @@
-#########
-Changelog
-#########
-
-Journal 7.x-1.0-beta, 2011-12-07
---------------------------------
-
-Initializing project.
