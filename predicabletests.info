@@ -1,7 +1,0 @@
-name = predicabletests
-description = Sample tests that always pass or fail.
-core = 7.x
-package = predicabletests
-files[] = predicabletests.test
-dependencies[] = simpletest
-testing_api = 2.x

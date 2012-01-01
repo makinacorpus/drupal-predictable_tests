@@ -1,0 +1,7 @@
+name = Predictable tests
+description = Minimal tests that always pass or fail.
+core = 7.x
+package = predictable_tests
+files[] = predictable_tests.test
+dependencies[] = simpletest
+testing_api = 2.x

@@ -1,14 +1,14 @@
 <?php
 /**
  * @file
- * Tests of predicabletests module.
+ * Tests of predictable_tests module.
  */
 
 
 /**
- * Predicable test case which provides a test that always passes.
+ * Predictable test case which provides a test that always passes.
  */
-class PredicableUnitTest extends DrupalUnitTestCase {
+class PredictableUnitTest extends DrupalUnitTestCase {
   /**
    * Registers test case.
    */
@@ -19,7 +19,7 @@ class PredicableUnitTest extends DrupalUnitTestCase {
                         a quick test that passes. Useful to validate your test
                         workflow. NOTE: as a DrupalUnitTestCase, does not
                         requires access to the database nor files.',
-      'group' => 'PredicableTests',
+      'group' => 'PredictableTests',
     );
   }
 
@@ -33,9 +33,9 @@ class PredicableUnitTest extends DrupalUnitTestCase {
 
 
 /**
- * Predicable web test case which provides a test that always passes.
+ * Predictable web test case which provides a test that always passes.
  */
-class PredicableWebTest extends DrupalWebTestCase {
+class PredictableWebTest extends DrupalWebTestCase {
   /**
    * Registers test case.
    */
@@ -46,7 +46,7 @@ class PredicableWebTest extends DrupalWebTestCase {
                         Useful to validate your test workflow.
                         NOTE: as a DrupalWebTestCase, requires access to 
                         the database and files.',
-      'group' => 'PredicableTests',
+      'group' => 'PredictableTests',
     );
   }
 
@@ -60,9 +60,9 @@ class PredicableWebTest extends DrupalWebTestCase {
 
 
 /**
- * Predicable test case which provides a test that always fails.
+ * Predictable test case which provides a test that always fails.
  */
-class PredicableFailTest extends DrupalUnitTestCase {
+class PredictableFailTest extends DrupalUnitTestCase {
   /**
    * Registers test case.
    */
@@ -73,7 +73,7 @@ class PredicableFailTest extends DrupalUnitTestCase {
                         need a quick test that fails. Useful to validate
                         your test workflow. NOTE: as a DrupalUnitTestCase,
                         does not requires access to the database nor files.',
-      'group' => 'PredicableTests',
+      'group' => 'PredictableTests',
     );
   }
 

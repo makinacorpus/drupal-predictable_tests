@@ -2,7 +2,8 @@
 Changelog
 #########
 
-Journal 7.x-1.0-beta, 2011-12-07
---------------------------------
+Predictable tests 7.x-1.0-beta, 2012-01-01
+-----------------------------------------
 
-Initializing project.
+by benoit.bryon: Renamed from predicabletests to predictable_tests.
+by benoit.bryon: Initialized project.
