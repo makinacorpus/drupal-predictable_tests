@@ -1,0 +1,9 @@
+<?php
+/**
+ * @file
+ * General hooks of predicabletests module.
+ *
+ * This file is required for the project to be recognized as a module.
+ */
+
+// All stuff is in predictable_tests.test file.
